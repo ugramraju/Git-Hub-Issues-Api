@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+.container{
+    margin: auto;
+    line-height: 3em;
+}
+.btn-container{
+    margin-top: 3em;
+}
+button:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+}
